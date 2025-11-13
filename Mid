@@ -1,0 +1,4 @@
+Task :
+1.generate 500 data points with 3 classes
+2.implement a 3 layer NN. extend our 2 layers NN code to do so.
+3.upload your code naming CP.ipynb
